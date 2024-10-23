@@ -1,0 +1,103 @@
+[
+     {
+       "id": "1",
+       "title": "Introduction to JavaScript",
+       "thumbnail": "https://i.ibb.co.com/q7tv35d/toy-bricks-table-with-word-my-blog.jpg",
+       "authorName": "Jane Doe",
+       "authorAvatar": "https://example.com/avatars/jane.jpg",
+       "postDate": "2023-08-15",
+       "readingTime": "5 mins",
+       "tags": ["JavaScript", "Web Development", "Programming"]
+     },
+     {
+       "id": "2",
+       "title": "Mastering Python for Data Science",
+       "thumbnail": "https://i.ibb.co.com/kcxjZtH/keyboard-tea-cup-apple-office-stationeries-black-background.jpg",
+       "authorName": "John Smith",
+       "authorAvatar": "https://example.com/avatars/john.jpg",
+       "postDate": "2023-09-10",
+       "readingTime": "10 mins",
+       "tags": ["Python", "Data Science", "Machine Learning"]
+     },
+     {
+       "id": "3",
+       "title": "CSS Grid Layouts: A Complete Guide",
+       "thumbnail": "https://i.ibb.co.com/hLfb2dy/high-angle-desktop-with-laptop-copy-space.jpg",
+       "authorName": "Alice Green",
+       "authorAvatar": "https://example.com/avatars/alice.jpg",
+       "postDate": "2023-07-23",
+       "readingTime": "8 mins",
+       "tags": ["CSS", "Web Design", "Front-End"]
+     },
+     {
+       "id": "4",
+       "title": "Building RESTful APIs with Node.js",
+       "thumbnail": "https://i.ibb.co.com/HzxJmQ4/top-view-desk-concept-with-coffee.jpg",
+       "authorName": "Michael Johnson",
+       "authorAvatar": "https://example.com/avatars/michael.jpg",
+       "postDate": "2023-10-01",
+       "readingTime": "12 mins",
+       "tags": ["Node.js", "APIs", "Back-End"]
+     },
+     {
+       "id": "5",
+       "title": "React.js Essentials for Beginners",
+       "thumbnail": "https://i.ibb.co.com/VNmzYf0/digital-laptop-working-global-business-concept.jpg",
+       "authorName": "Emma White",
+       "authorAvatar": "https://example.com/avatars/emma.jpg",
+       "postDate": "2023-05-05",
+       "readingTime": "7 mins",
+       "tags": ["React.js", "JavaScript", "Web Development"]
+     },
+     {
+       "id": "6",
+       "title": "Understanding Kubernetes: A Beginner’s Guide",
+       "thumbnail": "https://i.ibb.co.com/q7tv35d/toy-bricks-table-with-word-my-blog.jpg",
+       "authorName": "Daniel Brown",
+       "authorAvatar": "https://example.com/avatars/daniel.jpg",
+       "postDate": "2023-03-22",
+       "readingTime": "15 mins",
+       "tags": ["Kubernetes", "DevOps", "Cloud Computing"]
+     },
+     {
+       "id": "7",
+       "title": "Exploring Artificial Intelligence with TensorFlow",
+       "thumbnail": "https://i.ibb.co.com/q7tv35d/toy-bricks-table-with-word-my-blog.jpg",
+       "authorName": "Sophia King",
+       "authorAvatar": "https://example.com/avatars/sophia.jpg",
+       "postDate": "2023-08-18",
+       "readingTime": "20 mins",
+       "tags": ["Artificial Intelligence", "TensorFlow", "Machine Learning"]
+     },
+     {
+       "id": "8",
+       "title": "A Complete Guide to Git and GitHub",
+       "thumbnail": "https://i.ibb.co.com/q7tv35d/toy-bricks-table-with-word-my-blog.jpg",
+       "authorName": "David Lee",
+       "authorAvatar": "https://example.com/avatars/david.jpg",
+       "postDate": "2023-02-11",
+       "readingTime": "6 mins",
+       "tags": ["Git", "GitHub", "Version Control"]
+     },
+     {
+       "id": "9",
+       "title": "Mastering Docker for Developers",
+       "thumbnail": "https://i.ibb.co.com/q7tv35d/toy-bricks-table-with-word-my-blog.jpg",
+       "authorName": "Linda Black",
+       "authorAvatar": "https://example.com/avatars/linda.jpg",
+       "postDate": "2023-06-30",
+       "readingTime": "14 mins",
+       "tags": ["Docker", "Containers", "DevOps"]
+     },
+     {
+       "id": "10",
+       "title": "Introduction to Blockchain Technology",
+       "thumbnail": "https://i.ibb.co.com/q7tv35d/toy-bricks-table-with-word-my-blog.jpg",
+       "authorName": "Robert Clark",
+       "authorAvatar": "https://example.com/avatars/robert.jpg",
+       "postDate": "2023-11-02",
+       "readingTime": "18 mins",
+       "tags": ["Blockchain", "Cryptocurrency", "Technology"]
+     }
+   ]
+   
